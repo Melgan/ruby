@@ -1,17 +1,16 @@
-## testowanie aplikacji w Ruby, mgancza@sigma.ug.edu.pl
+## Testowanie aplikacji w Ruby, mgancza@wp.pl
 
-Najważniejsze adresy url:
+Podręczne linki:
 
 1. [Dokumentacja RSpec](http://rspec.info/):
-  - [rspec-mocks](https://github.com/rspec/rspec-mocks)
   - [rspec-core](https://github.com/rspec/rspec-core)
   - [rspec-expectations](https://github.com/rspec/rspec-expectations)
-  
-1. [Better Specs](http://betterspecs.org/).
+  - [rspec-mocks](https://github.com/rspec/rspec-mocks)
 1. Ruby:
   - [Hash](http://ruby-doc.org/core-2.2.3/Hash.html)
-  - [Enumerable](http://ruby-doc.org/core-2.2.3/Enumerable.html)
   - [Array](http://ruby-doc.org/core-2.2.3/Array.html)
+  - [Enumerable](http://ruby-doc.org/core-2.2.3/Enumerable.html)
+1. [Better Specs](http://betterspecs.org/).
 
 ## Zadania
 
