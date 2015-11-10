@@ -1,4 +1,4 @@
-## Testowanie aplikacji w Ruby, mgancza@wp.pl
+## Testowanie aplikacji w Ruby, mgancza@sigma.ug.edu.pl
 
 Podręczne linki:
 
