@@ -11,9 +11,7 @@ describe Account do
       expect { Account.new(options) }.to_not raise_error
     end
 
-    it "cannot be initialized without account_number and raises error" do
-      expect { Account.new({name: "John", last_name: "Newman"}) }.to raise_error
-    end
+
   end
 
   describe "#group_by_currency" do
